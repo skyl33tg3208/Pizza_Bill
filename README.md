@@ -1,5 +1,7 @@
 # Kenny's Pizza Calculator 🍕
 
+This project is part of my 100-day Python coding challenge to build skills and a portfolio.
+
 A simple Python program to practice **if/else statements**, **nested logic**, and **conditional operators**. It calculates the final bill for a pizza order based on user choices.
 
 ## Learning Goal
